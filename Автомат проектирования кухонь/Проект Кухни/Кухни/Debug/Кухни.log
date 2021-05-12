@@ -1,0 +1,7 @@
+﻿  MaterialBASE.cpp
+d:\уроки\ооп c++\автомат проектирования кухонь\кухни\кухни\materialbase.cpp(111): warning C4018: '<': signed/unsigned mismatch
+d:\уроки\ооп c++\автомат проектирования кухонь\кухни\кухни\materialbase.cpp(231): warning C4018: '<': signed/unsigned mismatch
+  iKitchen.cpp
+  main.cpp
+  Generating Code...
+  Кухни.vcxproj -> D:\Уроки\ООП C++\Автомат проектирования кухонь\Кухни\Debug\Кухни.exe
